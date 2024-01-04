@@ -1,0 +1,18 @@
+class a05_test05
+{
+    public static void main()
+    {
+        int i;
+        int j;
+
+        
+        i = 2;
+        j = 3;
+        
+    
+        for(i =0; i<5; i++)
+        {
+            j = 12;
+        }
+    }
+}
